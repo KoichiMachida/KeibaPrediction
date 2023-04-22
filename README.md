@@ -8,7 +8,7 @@ pythonを用いて作成しました。
 # 使用方法
 仮想環境orAnaconda起動後本モデルで使用するモジュールをインストールする。
 ```
-pip intall -r requirements.txt
+pip install -r requirements.txt
 ```
 
 次に以下2つのファイルを作成すること
